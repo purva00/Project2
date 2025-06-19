@@ -1,2 +1,3 @@
 # New Project
-This projected is created from local status
+This project is created from local status.
+Created by Purva Rai.
